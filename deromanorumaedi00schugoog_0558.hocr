@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deromanorumaedi00schugoog_0558.png"; bbox 0 0 2626 4716; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1035 1091 1042 1124">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1035 1091 1042 1124">
+     <span class='ocr_line' id='line_1_1' title="bbox 1035 1091 1042 1124; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1035 1091 1042 1124; x_wconf 68' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 107 1165 1307 1386">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 107 1165 1307 1400">
+     <span class='ocr_line' id='line_1_2' title="bbox 107 1165 1307 1386; baseline -0.003 -50"><span class='ocrx_word' id='word_1_2' title='bbox 107 1165 116 1181; x_wconf 59' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 181 1171 484 1386; x_wconf 63' lang='grc' dir='ltr'><strong>Ι’ΜΒΕΒ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 541 1191 924 1384; x_wconf 64' lang='lat' dir='ltr'><strong>QUARTUS,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1301 1269 1307 1302; x_wconf 87' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 483 1498 679 1546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 483 1498 679 1546">
+     <span class='ocr_line' id='line_1_3' title="bbox 492 1498 495 1510; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 492 1498 495 1510; x_wconf 76' lang='grc' dir='ltr'><strong>ι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 483 1523 679 1546; baseline -0.01 -4"><span class='ocrx_word' id='word_1_7' title='bbox 483 1523 679 1546; x_wconf 53' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 53 1701 1243 1978">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 53 1701 1243 1978">
+     <span class='ocr_line' id='line_1_5' title="bbox 53 1701 1243 1862; baseline 0 -36"><span class='ocrx_word' id='word_1_8' title='bbox 53 1726 419 1827; x_wconf 69' lang='grc' dir='ltr'><strong>ΑΕυιωυΜ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 462 1752 858 1844; x_wconf 76' lang='lat' dir='ltr'>.HONORES,.</span> <span class='ocrx_word' id='word_1_10' title='bbox 919 1701 1090 1847; x_wconf 45' lang='lat'><strong>1113}</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1142 1759 1145 1771; x_wconf 89' lang='lat'>·</span> <span class='ocrx_word' id='word_1_12' title='bbox 1237 1851 1243 1862; x_wconf 25' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 171 1868 1210 1978; baseline -0.004 -32"><span class='ocrx_word' id='word_1_13' title='bbox 171 1895 185 1978; x_wconf 80' lang='lat'><strong>.·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 286 1868 853 1973; x_wconf 40' lang='lat' dir='ltr'><strong>,ATQUEMmlsTRL</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1208 1889 1210 1898; x_wconf 88' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1318 4716">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1318 4716">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1318 4716; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1318 4716; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
